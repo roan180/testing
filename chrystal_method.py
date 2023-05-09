@@ -8,3 +8,9 @@ def multiply(a,b):
 #testing again
 
 #testing for a third time
+
+def subtract(a,b):
+    return a - b
+
+#posting cringe on main
+
